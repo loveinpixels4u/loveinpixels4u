@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/love-in-pixels-4u-banner.gif" alt="Love in Pixels 4U" width="100%">
+
+</div>
+
 # ✨ Love in Pixels 4U
 
 ### 💖 Turning special moments into unforgettable digital experiences.
